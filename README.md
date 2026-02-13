@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Swalini Mary M
 
-<!--
-**swalinimore/swalinimore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Developer focused on Retrieval-Augmented and Agent-driven systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me
+
+- I build and experiment with chatbot systems using RAG and agent-based approaches.
+- I focus on solving real problems with simple, structured architectures.
+- I care about clarity, determinism, and controlled system behavior.
+- Currently exploring how much autonomy LLMs should be given within structured workflows.
+
+---
+
+## 🔹 Technical Focus
+
+**Core Areas**
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Workflows
+- LLM-Orchestrated Systems
+
+**Tools & Technologies**
+- Python
+- Vector Databases (FAISS, Chroma)
+
+---
+
+## 🔹 Projects
+
+Projects will be added as they are intentionally built and documented.
+
+---
+
+## 🔹 Engineering Principles
+
+- Keep systems modular and testable.
+- Reduce hallucination through structured retrieval.
+- Prefer clarity over unnecessary complexity.
+- Design agents with controlled autonomy.
+
+---
+
+## 🔹 Current Direction
+
+- Strengthening fundamentals of RAG architecture.
+- Improving agent decision loops.
+- Studying production-ready AI system design.
+
+---
+
+> Building systems that retrieve, reason, and act.
