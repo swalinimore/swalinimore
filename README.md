@@ -1,15 +1,21 @@
 # Hi, I'm Swalini Mary M
 
-AI Developer focused on Retrieval-Augmented and Agent-driven systems.
+AI Developer building Retrieval-Augmented and Agentic AI systems
 
 ---
 
 ## 🔹 About Me
 
-- I build and experiment with chatbot systems using RAG and agent-based approaches.
-- I focus on solving real problems with simple, structured architectures.
-- I care about clarity, determinism, and controlled system behavior.
-- Currently exploring how much autonomy LLMs should be given within structured workflows.
+I design and build intelligent document Q&A systems using RAG and agent-based workflows.
+
+I started with a basic PDF-based RAG chatbot and then extended it into an agentic system where the model decides whether to retrieve, refine the query, or answer.
+
+I focus on building systems that are:
+- grounded in retrieved context
+- structured in behavior
+- controllable in decision-making
+
+Currently exploring how to balance LLM autonomy with deterministic system design.
 
 ---
 
@@ -18,35 +24,44 @@ AI Developer focused on Retrieval-Augmented and Agent-driven systems.
 **Core Areas**
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI Workflows
-- LLM-Orchestrated Systems
+- LLM Decision Loops
 
 **Tools & Technologies**
 - Python
-- Vector Databases (FAISS, Chroma)
+- FAISS (Vector Search)
+- SentenceTransformers
+- Ollama (LLM orchestration)
+- Streamlit
 
 ---
 
 ## 🔹 Projects
 
-Projects will be added as they are intentionally built and documented.
+1. PDF RAG Chatbot
+- Built a document-based Q&A system using chunking, embeddings, and vector search
+- Focused on grounding responses strictly in document context
+
+2. Agentic RAG System
+- Designed an iterative agent loop (RETRIEVE → REFINE → ANSWER)
+- Improved handling of ambiguous queries through query refinement
+- Observed and analyzed LLM decision behavior and failure cases
 
 ---
 
 ## 🔹 Engineering Principles
 
-- Keep systems modular and testable.
-- Reduce hallucination through structured retrieval.
-- Prefer clarity over unnecessary complexity.
+- Prefer structured systems over black-box behavior
+- Reduce hallucination through controlled retrieval
+- Build iterative systems instead of one-shot pipelines
+- Keep architectures simple, modular, and explainable
 - Design agents with controlled autonomy.
 
 ---
 
 ## 🔹 Current Direction
 
-- Strengthening fundamentals of RAG architecture.
-- Improving agent decision loops.
-- Studying production-ready AI system design.
+- Improving agent decision reliability
+- Exploring hybrid approaches (rule-based + LLM)
+- Building real-world use cases (legal, document intelligence)
 
 ---
-
-> Building systems that retrieve, reason, and act.
