@@ -1,6 +1,6 @@
 # Hi, I'm Swalini Mary M
 
-AI Developer building Retrieval-Augmented and Agentic AI systems
+AI Developer building Retrieval-Augmented and Agentic AI systems for document intelligence
 
 ---
 
@@ -15,7 +15,7 @@ I focus on building systems that are:
 - structured in behavior
 - controllable in decision-making
 
-Currently exploring how to balance LLM autonomy with deterministic system design.
+Currently exploring how to balance LLM autonomy with deterministic system behavior in real-world systems.
 
 ---
 
@@ -43,8 +43,8 @@ Currently exploring how to balance LLM autonomy with deterministic system design
 
 2. Agentic RAG System
 - Designed an iterative agent loop (RETRIEVE → REFINE → ANSWER)
-- Improved handling of ambiguous queries through query refinement
-- Observed and analyzed LLM decision behavior and failure cases
+- Improved handling of ambiguous queries through iterative refinement
+- Identified failure patterns in LLM decision-making (e.g., repeated retrieval loops)
 
 ---
 
@@ -54,7 +54,7 @@ Currently exploring how to balance LLM autonomy with deterministic system design
 - Reduce hallucination through controlled retrieval
 - Build iterative systems instead of one-shot pipelines
 - Keep architectures simple, modular, and explainable
-- Design agents with controlled autonomy.
+- Design agents with controlled autonomy
 
 ---
 
@@ -65,3 +65,6 @@ Currently exploring how to balance LLM autonomy with deterministic system design
 - Building real-world use cases (legal, document intelligence)
 
 ---
+## 🔹 Links
+https://github.com/swalinimore/pdf-rag-chatbot-v1 
+https://github.com/swalinimore/agentic-rag-chatbot
